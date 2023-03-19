@@ -17,5 +17,5 @@
 
 > ##### DANGER
 >
-> You cannot delete an ephemeral message.
+> You cannot delete an ephemeral message. `--capt-add=SYS-ADMIN` 
 {: .block-danger }
